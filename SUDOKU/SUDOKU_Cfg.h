@@ -1,0 +1,6 @@
+#ifndef SUDOKU_CFG_H_INCLUDED
+#define SUDOKU_CFG_H_INCLUDED
+
+#define GAME_SIZE 9
+
+#endif // SUDOKU_CFG_H_INCLUDED
